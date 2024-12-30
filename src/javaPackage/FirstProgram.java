@@ -7,6 +7,8 @@ public class FirstProgram {
         System.out.println("Hello world");          //print statement
         aMethod();//Calling a method
         bMethod();//Calling  b method
+        FirstProgram f=new FirstProgram();
+        f.cMethod();
     }
     public static void aMethod(){       //user defined method
         int c=50;
