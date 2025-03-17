@@ -36,15 +36,7 @@
 35 Session Link - https://attendee.gotowebinar.com/recording/3415517866896292959 - relative,absolute x path
 36 Session Link - https://attendee.gotowebinar.com/recording/2350114189435816533 - overview of locatos,methods of webdriver,findelement
 37 Session Link - https://attendee.gotowebinar.com/recording/8741123382441310296 -
-=======
-31 Session Link - https://attendee.gotowebinar.com/recording/5323217819944503641 31:36
-32 Session Link - https://attendee.gotowebinar.com/recording/7472062663394182573
-33 Session Link - https://attendee.gotowebinar.com/recording/5819938690543134467
-34 Session Link - https://attendee.gotowebinar.com/recording/1620484870158665903
-35 Session Link - https://attendee.gotowebinar.com/recording/3415517866896292959
-36 Session Link - https://attendee.gotowebinar.com/recording/2350114189435816533
-37 Session Link - https://attendee.gotowebinar.com/recording/8741123382441310296
->>>>>>> 225460a525c807559b8d39a583dfa3a1d7ee71f2
+
 38 Session Link - https://attendee.gotowebinar.com/recording/7202836246460592556
 39 Session Link - https://attendee.gotowebinar.com/recording/2238495067585806678
 SelectorsHub Session - https://attendee.gotowebinar.com/recording/1891451814485740035
