@@ -35,15 +35,15 @@
 34 Session Link - https://attendee.gotowebinar.com/recording/1620484870158665903 - first testcase
 35 Session Link - https://attendee.gotowebinar.com/recording/3415517866896292959 - relative,absolute x path
 36 Session Link - https://attendee.gotowebinar.com/recording/2350114189435816533 - overview of locatos,methods of webdriver,findelement
-37 Session Link - https://attendee.gotowebinar.com/recording/8741123382441310296 -
+37 Session Link - https://attendee.gotowebinar.com/recording/8741123382441310296 - done
 
-38 Session Link - https://attendee.gotowebinar.com/recording/7202836246460592556
-39 Session Link - https://attendee.gotowebinar.com/recording/2238495067585806678
+38 Session Link - https://attendee.gotowebinar.com/recording/7202836246460592556 - RadioButton
+39 Session Link - https://attendee.gotowebinar.com/recording/2238495067585806678 - DropDown
 SelectorsHub Session - https://attendee.gotowebinar.com/recording/1891451814485740035
-40 Session Link - https://attendee.gotowebinar.com/recording/1436834542748217689
-41 Session Link - https://attendee.gotowebinar.com/recording/45692848889753773
-42 Session Link - https://attendee.gotowebinar.com/recording/5717728089979225770
-43 Session Link - https://attendee.gotowebinar.com/recording/265569885744137311
+40 Session Link - https://attendee.gotowebinar.com/recording/1436834542748217689 - Waits
+41 Session Link - https://attendee.gotowebinar.com/recording/45692848889753773   - js executer , web tables
+42 Session Link - https://attendee.gotowebinar.com/recording/5717728089979225770 - iframes,drag and drop ,mouse actions
+43 Session Link - https://attendee.gotowebinar.com/recording/265569885744137311  -
 44 Session Link - https://attendee.gotowebinar.com/recording/4197347600435030532
 45 Session Link - https://attendee.gotowebinar.com/recording/6053968641468404907
 46 Session Link - https://attendee.gotowebinar.com/recording/5828259795051020631
