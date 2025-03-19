@@ -23,12 +23,14 @@ public class WebTable {
             if(CompanyName.get(i).getText().equalsIgnoreCase(expResult)){
                 System.out.println(CompanyName.get(i).getText()+"======"+CompanyPrice.get(i).getText());
                 CompanyName.get(i).click();
-                driver.getTitle();
+                System.out.println(driver.getTitle());
+
+
                 break;
 
             }
         }
-
+        driver.close();
 
     }
 }
