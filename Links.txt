@@ -19,15 +19,15 @@
 19 Session Link - https://attendee.gotowebinar.com/recording/814977153583253933- DONE
 20 Session Link - https://attendee.gotowebinar.com/recording/7254098776396228010- DONE
 21 Session Link - https://attendee.gotowebinar.com/recording/4161489226833306115- DONE
-22 Session Link - https://attendee.gotowebinar.com/recording/1765908476651260332- DONE
+22 Session Link - https://attendee.gotowebinar.com/recording/1765908476651260332- DONE loops
 23 Session Link - https://attendee.gotowebinar.com/recording/535386739957215744- DONE
-24 Session Link - https://attendee.gotowebinar.com/recording/7821437980434671787- DONE
-25 Session Link - https://attendee.gotowebinar.com/recording/8715693877071745369- DONE
-26 Session Link - https://attendee.gotowebinar.com/recording/7395975359085911215- DONE
-27 Session Link - https://attendee.gotowebinar.com/recording/572624999943581104- DONE
-28 Session Link - https://attendee.gotowebinar.com/recording/2266246740694328239- DONE
-29 Session Link - https://attendee.gotowebinar.com/recording/832302158678086572 -DONE
-30 Session Link - https://attendee.gotowebinar.com/recording/620654966446208429 -DONE
+24 Session Link - https://attendee.gotowebinar.com/recording/7821437980434671787- DONE -maven  setup
+25 Session Link - https://attendee.gotowebinar.com/recording/8715693877071745369- DONE -array
+26 Session Link - https://attendee.gotowebinar.com/recording/7395975359085911215- DONE -
+27 Session Link - https://attendee.gotowebinar.com/recording/572624999943581104- DONE-oops
+28 Session Link - https://attendee.gotowebinar.com/recording/2266246740694328239- DONE-oops2
+29 Session Link - https://attendee.gotowebinar.com/recording/832302158678086572 -DONE-oops 3
+30 Session Link - https://attendee.gotowebinar.com/recording/620654966446208429 -DONE -oops 4
 <<<<<<< HEAD
 31 Session Link - https://attendee.gotowebinar.com/recording/5323217819944503641 31:36 Type casting hashtable vs hashmaps access modifiers remaining
 32 Session Link - https://attendee.gotowebinar.com/recording/7472062663394182573 - exception handling remaning
