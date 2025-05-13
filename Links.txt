@@ -43,21 +43,21 @@ SelectorsHub Session - https://attendee.gotowebinar.com/recording/18914518144857
 40 Session Link - https://attendee.gotowebinar.com/recording/1436834542748217689 - Waits
 41 Session Link - https://attendee.gotowebinar.com/recording/45692848889753773   - js executer , web tables
 42 Session Link - https://attendee.gotowebinar.com/recording/5717728089979225770 - iframes,drag and drop ,mouse actions
-43 Session Link - https://attendee.gotowebinar.com/recording/265569885744137311  -
-44 Session Link - https://attendee.gotowebinar.com/recording/4197347600435030532
-45 Session Link - https://attendee.gotowebinar.com/recording/6053968641468404907
-46 Session Link - https://attendee.gotowebinar.com/recording/5828259795051020631
-47 Session Link - https://attendee.gotowebinar.com/recording/4132278502391498244
-48 Session Link - https://attendee.gotowebinar.com/recording/8642989770982247002
-49 Session Link - https://attendee.gotowebinar.com/recording/3201015243475950765
-50 Session Link - https://attendee.gotowebinar.com/recording/863390850683462496
-51 Session Link - https://attendee.gotowebinar.com/recording/8333764220419750745
-52 Session Link - https://attendee.gotowebinar.com/recording/3859729361242992899
-53 Session Link - https://attendee.gotowebinar.com/recording/3882704756226254427
-54 Session Link - https://attendee.gotowebinar.com/recording/8591199474966181633
-55 Session Link - https://attendee.gotowebinar.com/recording/1017769979937010010
-56 Session Link - https://attendee.gotowebinar.com/recording/6420704148152729181
-57 Session Link - https://attendee.gotowebinar.com/recording/2720728773452941915
-58 Session Link - https://attendee.gotowebinar.com/recording/7066799170910782722
-59 Session Link - https://attendee.gotowebinar.com/recording/3613194665203638615
-60 Session Link - https://attendee.gotowebinar.com/recording/162252077125218222
+43 Session Link - https://attendee.gotowebinar.com/recording/265569885744137311  - popup and window handling
+44 Session Link - https://attendee.gotowebinar.com/recording/4197347600435030532 - read from file
+45 Session Link - https://attendee.gotowebinar.com/recording/6053968641468404907 -logging
+46 Session Link - https://attendee.gotowebinar.com/recording/5828259795051020631 - testng
+47 Session Link - https://attendee.gotowebinar.com/recording/4132278502391498244 - more testng
+48 Session Link - https://attendee.gotowebinar.com/recording/8642989770982247002 - more testng
+49 Session Link - https://attendee.gotowebinar.com/recording/3201015243475950765 - assertion
+50 Session Link - https://attendee.gotowebinar.com/recording/863390850683462496  - selenium grid
+51 Session Link - https://attendee.gotowebinar.com/recording/8333764220419750745 - maven installation
+52 Session Link - https://attendee.gotowebinar.com/recording/3859729361242992899 - cucumber
+53 Session Link - https://attendee.gotowebinar.com/recording/3882704756226254427 - explaining automation project
+54 Session Link - https://attendee.gotowebinar.com/recording/8591199474966181633 - framework lecture
+55 Session Link - https://attendee.gotowebinar.com/recording/1017769979937010010 - more framework
+56 Session Link - https://attendee.gotowebinar.com/recording/6420704148152729181 - more framework
+57 Session Link - https://attendee.gotowebinar.com/recording/2720728773452941915 - pagefactory
+58 Session Link - https://attendee.gotowebinar.com/recording/7066799170910782722 - git and jenkins
+59 Session Link - https://attendee.gotowebinar.com/recording/3613194665203638615 - api testing
+60 Session Link - https://attendee.gotowebinar.com/recording/162252077125218222  - api testing
