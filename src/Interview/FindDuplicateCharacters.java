@@ -14,9 +14,16 @@ public class FindDuplicateCharacters {
             if(!map.containsKey(c[i])){
                 map.put(c[i],count);
             }else{
-                map.put(c[i],map.get(c[i]+1));
+                map.put(c[i],map.get(c[i])+1);
             }
         }
+        for(Character k:map.keySet()){
+            if(map.get(k)>1){
+                System.out.println( k+" : "+map.get(k));
+            }
 
+            }
+
+        }
     }
-}
+
