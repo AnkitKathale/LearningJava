@@ -11,8 +11,9 @@ public class TestNG {
         return new String[][] {new String[] {"data1"}, new String[] {"data2"}};
     }
 
-    @Test(dataProvider = "data")
+    @Test(dataProvider = "data",retryAnalyzer = Selenium.RetryAnalyzer.class)
     public void test(String d) {
-        Assert.assertEquals("First Line\nSecond Line", "First Line\nSecond Line");
+        System.out.println(d);
+        Assert.assertEquals("First Line\nSecond Lined", "First Line\nSecond Line");
     }
 }
